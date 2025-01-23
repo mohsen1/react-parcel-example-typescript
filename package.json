@@ -15,7 +15,7 @@
     "react-dom": "^16.2.0",
     "tslib": "^1.9.1",
     "cross-env": "^5.1.1",
-    "typescript": "^2.8.3"
+    "typescript": "^2.9.2"
   },
   "postcss": {
     "modules": false,
